@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7602c32f-9951-4227-824d-06387ae4c1fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Proiect_personal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymod.py" afterDir="false" />
-    </list>
+    <list default="true" id="7602c32f-9951-4227-824d-06387ae4c1fc" name="Changes" comment="This is a matlab/simulink photobioreactor controlled by an ML written in python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +44,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,9 +79,22 @@
       <workItem from="1732186488083" duration="4000" />
       <workItem from="1732195333956" duration="88000" />
     </task>
+    <task id="LOCAL-00001" summary="This is a matlab/simulink photobioreactor controlled by an ML written in python">
+      <option name="closed" value="true" />
+      <created>1734618773244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734618773245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is a matlab/simulink photobioreactor controlled by an ML written in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a matlab/simulink photobioreactor controlled by an ML written in python" />
   </component>
 </project>
